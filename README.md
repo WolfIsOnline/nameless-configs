@@ -1,1 +1,1 @@
-# nameless-configs
+# Configs for Nameless
